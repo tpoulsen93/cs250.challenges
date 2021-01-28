@@ -1,0 +1,16 @@
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative.deps.json
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative.runtimeconfig.json
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative.runtimeconfig.dev.json
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative.dll
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ref/ComputingTheCategoricalImperative.dll
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/bin/Debug/net5.0/ComputingTheCategoricalImperative.pdb
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.csprojAssemblyReference.cache
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.GeneratedMSBuildEditorConfig.editorconfig
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.AssemblyInfoInputs.cache
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.AssemblyInfo.cs
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.csproj.CoreCompileInputs.cache
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.dll
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ref/ComputingTheCategoricalImperative.dll
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.pdb
+/home/tpoulsen/vscode/cs250.challenges/challenge_2/obj/Debug/net5.0/ComputingTheCategoricalImperative.genruntimeconfig.cache
