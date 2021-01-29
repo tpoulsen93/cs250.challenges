@@ -13,21 +13,24 @@ namespace ComputingTheCategoricalImperative
             thief = false;
         }
         
-        public void work()
+        public int work()
         {
             wealth += wage;
+            return wage;
         }      
 
         public int getRobbed()
         {
-            int amountStolen = wealth/2;
-            wealth -= amountStolen;
-            return amountStolen;
+            int stolen = wealth/2;
+            wealth -= stolen;
+            return stolen;
         }      
 
-        public void steal(Citizen victim)
+        public int steal(Citizen victim)
         {
-                wealth += victim.getRobbed();
+            int stolen = victim.getRobbed();
+            wealth += stolen;
+            return stolen;
         }
 
         public void setWage(int amount)
